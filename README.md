@@ -1,4 +1,4 @@
-# Manual-Neural-Network
+# Manual-Neural-Network [![Tweet](http://i.imgur.com/tXSoThF.png)](https://twitter.com/ronak521)
 This is the code for implementing the basic neural network with python
 ## Dependencies
 • NumPy
